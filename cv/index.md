@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<a class='download' href='/jonpugh.cv.pdf'>Download PDF</a>
+
 Brooklyn NY & Andover VT
 
 [linkedin.com/in/jonpugh](http://linkedin.com/in/jonpugh) <br/>
