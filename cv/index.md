@@ -8,9 +8,9 @@ Brooklyn NY & Andover VT
 [drupal.org/user/17028](http://drupal.org/user/17028)
 
 Creative software engineer with a focus on tools for more efficient development,
-retiring from Drupal for Symfony, Chef, Vagrant, Jekyll, Jenkins, and whatever the future may bring.
+(semi-)retiring from Drupal for Symfony, Chef, Vagrant, Jekyll, Jenkins, and whatever the future may bring.
 
-Actively working with HTML since 1997, CSS & Javascript since 1999, PHP/MySQL since 2000, exclusively using Drupal since 2004.  Broad & deep understanding of all web technologies, both design & technical.
+Actively working with HTML since 1997, CSS & Javascript since 1999, PHP/MySQL since 2000, exclusively using Drupal since 2004.  Broad & deep understanding of all web technologies, front-end and back.
 
 Open Source Projects
 --------------------
@@ -37,20 +37,20 @@ Mirrors drupal.org git repos on GitHub.com, using Symfony, Chef, & Jenkins.
 Work Experience
 ---------------
 
-### ThinkDrop Consulting, LLC
+### ThinkDrop Consulting
 Founder & CEO<br />
 January 2010 - Present
 
 Launched and manages a successful boutique Drupal consultancy.  Clients include Harvard Medical School,
 Institute for Integrative Nutrition, Sony Music, Lullabot, New Amsterdam Ideas, and numerous start-ups.
 
-### DrupalConnect.com
+### Drupal Connect
 CTO <br />
 June 2009 - January 2010
 
 Managed entire consulting services branch of Drupal Staffing.   Major projects included [blogher.com](http://blogher.com) and [pbs.com/thisemotionallife](http://pbs.com/thisemotionallife).
 
-### Freelancer
+### Freelance
 2004 - 2009
 
 Major projects include ARIS (NYC Department of Education, Wireless Generation, WorkHabit), RaceForTheOceans.org (Oceana), and Sony Music artist websites.
