@@ -39,8 +39,8 @@ Mirrors drupal.org git repos on GitHub.com, using Symfony, Chef, & Jenkins.
 - Many strange contrib modules, such as [Features Orphans](https://drupal.org/user/17028) and [Helpful.module](https://drupal.org/project/helpful).
 - See [drupal.org profile page](https://drupal.org/user/17028) for a full list of contributions.
 
-Coming Soon
-===========
+More Coming Soon
+----------------
 
 This CV is in development. Please check back later.
 
