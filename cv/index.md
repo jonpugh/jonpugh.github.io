@@ -1,16 +1,13 @@
 ---
 layout: default
 ---
-
 <a class='download' href='/jonpugh.cv.pdf'>Download PDF</a>
-
 Brooklyn NY & Andover VT
 
 [linkedin.com/in/jonpugh](http://linkedin.com/in/jonpugh) <br/>
 [drupal.org/user/17028](http://drupal.org/user/17028)
 
-Creative software engineer with a focus on tools for more efficient development,
-(semi-)retiring from Drupal for Symfony, Chef, Vagrant, Jekyll, Jenkins, and whatever the future may bring.
+Creative software engineer with a focus on tools for more efficient development.  Wishing to retire from Drupal in exchange for Symfony, Chef, Vagrant, Jekyll, Jenkins, and whatever the future may bring.
 
 Actively working with HTML since 1997, CSS & Javascript since 1999, PHP/MySQL since 2000, exclusively using Drupal since 2004.  Broad & deep understanding of all web technologies, front-end and back.
 
@@ -21,7 +18,7 @@ Open Source Projects
 
 [drupal.org/project/devshop](http://drupal.org/project/devshop)
 
-An open source version of a Drupal dev cloud service. Git powered dev-ops workflow tools, with front and back end interfaces, multiple environments per project, and additional tools to assist developers.
+"Drupal DevOps in a Box".  Git powered automation and workflow tools, with front and back end interfaces, multiple environments per project, and various tools to assist developers.
 
 ### HubDrop.io
 
