@@ -7,9 +7,11 @@ Brooklyn NY & Andover VT
 [linkedin.com/in/jonpugh](http://linkedin.com/in/jonpugh) <br/>
 [drupal.org/user/17028](http://drupal.org/user/17028)
 
-Creative software engineer with a focus on tools for more efficient development.  Wishing to retire from Drupal in exchange for Symfony, Chef, Vagrant, Jekyll, Jenkins, and whatever the future may bring.
+Creative software engineer and entrepreneur with a focus on tools for more efficient development.  Wishing to retire from Drupal in exchange for Symfony, Chef, Vagrant, Jekyll, Jenkins, and whatever the future may bring.
 
-Actively working with HTML since 1997, CSS & Javascript since 1999, PHP/MySQL since 2000, exclusively using Drupal since 2004.  Broad & deep understanding of all web technologies, front-end and back.
+Actively working with HTML since 1997, CSS & Javascript since 1999, PHP/MySQL since 2000, exclusively using Drupal since 2004.  Broad & deep understanding of all web technologies, front-end and back.  Leading teams of developers since 2007.
+
+Interested in open-source focused, results-driven workplaces that embrace internal entrepreneurship.
 
 Open Source Projects
 --------------------
@@ -37,11 +39,11 @@ Work Experience
 ---------------
 
 ### ThinkDrop Consulting
-Founder & CEO<br />
+Founder & CEO <br />
 January 2010 - Present
 
 Launched and manages a successful boutique Drupal consultancy.  Clients include Harvard Medical School,
-Institute for Integrative Nutrition, Sony Music, Lullabot, New Amsterdam Ideas, and numerous start-ups.
+Institute for Integrative Nutrition, Sony Music, Lullabot, New Amsterdam Ideas, Strawberry Frog, Bureau Blank, and numerous start-ups.
 
 ### Drupal Connect
 CTO <br />
