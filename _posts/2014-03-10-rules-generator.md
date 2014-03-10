@@ -2,7 +2,7 @@
 layout: post
 title:  "Rules to live by (and with)."
 date:   2014-03-10 13:33:00
-categories: jekyll
+categories: drupal
 published: true
 ---
 
