@@ -6,7 +6,7 @@ categories: drupal
 published: true
 ---
 
-## Rules.module. Can't live with it. Can't live without it.
+### Rules.module: Can't live with it. Can't live without it.
 
 So I really can't stand [Rules.module](http://drupal.org/project/rules/). It's an abstraction of an abstraction. The time spent teaching how to use Rules UI and shown how to build a rule, test the rule, export a rule, and debug a rule could easily be spent teaching someone how to code.
 
