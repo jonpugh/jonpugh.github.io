@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title:  "Rules to live by (and with)."
+date:   2014-03-10 13:33:00
+categories: jekyll
+published: true
 ---
 
 ## Rules.module. Can't live with it. Can't live without it.
