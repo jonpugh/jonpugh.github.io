@@ -11,6 +11,8 @@ Creative software engineer and entrepreneur with a focus on tools for more effic
 
 Actively working with HTML since 1997, CSS & Javascript since 1999, PHP/MySQL since 2000, exclusively using Drupal since 2004.  Broad & deep understanding of all web technologies, front-end and back.  Leading teams of developers since 2007.
 
+Founder of ThinkDrop Consulting, LLC. Focus on large migration and upgrade projects, building social networks, and consulting.
+
 Interested in open-source focused, results-driven workplaces that embrace internal entrepreneurship.
 
 Open Source Projects
